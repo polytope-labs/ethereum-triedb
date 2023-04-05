@@ -30,4 +30,5 @@ std = [
     "hash-db/std",
     "rlp/std",
     "primitive-types/std",
+    "codec/std"
 ]
