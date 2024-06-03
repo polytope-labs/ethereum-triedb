@@ -2,6 +2,11 @@
 
 This library allows users to verify ethereum style merkle patricia proofs as specified in this document: https://ethereum.github.io/execution-specs/autoapi/ethereum/frontier/trie/index.html
 
+## ARCHIVED
+
+This libary has been moved to the [hyperbridge repository](https://github.com/polytope-labs/hyperbridge/tree/main/modules/trees/ethereum).
+
+
 ```rust
 use ethereum_trie::{
     keccak::{keccak_256, KeccakHasher},
